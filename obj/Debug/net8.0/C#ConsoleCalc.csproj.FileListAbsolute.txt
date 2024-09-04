@@ -1,0 +1,14 @@
+E:\C#\C#ConsoleCalc\bin\Debug\net8.0\C#ConsoleCalc.exe
+E:\C#\C#ConsoleCalc\bin\Debug\net8.0\C#ConsoleCalc.deps.json
+E:\C#\C#ConsoleCalc\bin\Debug\net8.0\C#ConsoleCalc.runtimeconfig.json
+E:\C#\C#ConsoleCalc\bin\Debug\net8.0\C#ConsoleCalc.dll
+E:\C#\C#ConsoleCalc\bin\Debug\net8.0\C#ConsoleCalc.pdb
+E:\C#\C#ConsoleCalc\obj\Debug\net8.0\C#ConsoleCalc.GeneratedMSBuildEditorConfig.editorconfig
+E:\C#\C#ConsoleCalc\obj\Debug\net8.0\C#ConsoleCalc.AssemblyInfoInputs.cache
+E:\C#\C#ConsoleCalc\obj\Debug\net8.0\C#ConsoleCalc.AssemblyInfo.cs
+E:\C#\C#ConsoleCalc\obj\Debug\net8.0\C#ConsoleCalc.csproj.CoreCompileInputs.cache
+E:\C#\C#ConsoleCalc\obj\Debug\net8.0\C#ConsoleCalc.dll
+E:\C#\C#ConsoleCalc\obj\Debug\net8.0\refint\C#ConsoleCalc.dll
+E:\C#\C#ConsoleCalc\obj\Debug\net8.0\C#ConsoleCalc.pdb
+E:\C#\C#ConsoleCalc\obj\Debug\net8.0\C#ConsoleCalc.genruntimeconfig.cache
+E:\C#\C#ConsoleCalc\obj\Debug\net8.0\ref\C#ConsoleCalc.dll
